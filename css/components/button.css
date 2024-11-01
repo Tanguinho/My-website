@@ -1,0 +1,13 @@
+.button {
+  background-color: #5cb85c; /* Green button */
+  color: #fff;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  text-decoration: none;
+}
+.button:hover {
+  background-color: #4cae4c; /* Slightly darker on hover */
+}
